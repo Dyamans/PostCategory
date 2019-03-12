@@ -1,0 +1,14 @@
+C:\pats\imp-docs\git\PostCategory\PostCategory\bin\Debug\netcoreapp2.1\PostCategory.deps.json
+C:\pats\imp-docs\git\PostCategory\PostCategory\bin\Debug\netcoreapp2.1\PostCategory.runtimeconfig.json
+C:\pats\imp-docs\git\PostCategory\PostCategory\bin\Debug\netcoreapp2.1\PostCategory.runtimeconfig.dev.json
+C:\pats\imp-docs\git\PostCategory\PostCategory\bin\Debug\netcoreapp2.1\PostCategory.dll
+C:\pats\imp-docs\git\PostCategory\PostCategory\obj\Debug\netcoreapp2.1\PostCategory.csprojAssemblyReference.cache
+C:\pats\imp-docs\git\PostCategory\PostCategory\obj\Debug\netcoreapp2.1\PostCategory.csproj.CoreCompileInputs.cache
+C:\pats\imp-docs\git\PostCategory\PostCategory\obj\Debug\netcoreapp2.1\PostCategory.RazorAssemblyInfo.cache
+C:\pats\imp-docs\git\PostCategory\PostCategory\obj\Debug\netcoreapp2.1\PostCategory.RazorAssemblyInfo.cs
+C:\pats\imp-docs\git\PostCategory\PostCategory\obj\Debug\netcoreapp2.1\PostCategory.AssemblyInfoInputs.cache
+C:\pats\imp-docs\git\PostCategory\PostCategory\obj\Debug\netcoreapp2.1\PostCategory.AssemblyInfo.cs
+C:\pats\imp-docs\git\PostCategory\PostCategory\obj\Debug\netcoreapp2.1\PostCategory.RazorTargetAssemblyInfo.cache
+C:\pats\imp-docs\git\PostCategory\PostCategory\bin\Debug\netcoreapp2.1\PostCategory.pdb
+C:\pats\imp-docs\git\PostCategory\PostCategory\obj\Debug\netcoreapp2.1\PostCategory.dll
+C:\pats\imp-docs\git\PostCategory\PostCategory\obj\Debug\netcoreapp2.1\PostCategory.pdb
